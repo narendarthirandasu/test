@@ -1,0 +1,55 @@
+!SESSION 2019-08-21 17:39:17.359 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.5.20 - pwa6480sr5fp20-20180802_01(SR5 FP20)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20180731_393394 (JIT enabled, AOT enabled)
+OpenJ9   - bd23af8
+OMR      - ca1411c
+IBM      - 98805ca
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2019-08-21 17:39:50.120
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY org.eclipse.ui 2 2 2019-08-21 17:40:00.096
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.adapter.c, page: com.ibm.adapter.c.ui.preferencepage.CPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2019-08-21 17:40:00.112
+!MESSAGE Invalid preference category path: com.ibm.debug.breakpoints.common.pref.tracepoint (bundle: com.ibm.debug.wsa, page: com.ibm.debug.wsa.WSATracepointPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2019-08-21 17:40:00.112
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.etools.cobol.preference.ui, page: com.ibm.etools.cobol.preference.ui.preferencepage.CobolPreferencePage)
+
+!ENTRY com.ibm.mq.runtime 1 0 2019-08-21 17:40:05.549
+!MESSAGE 
+
+!ENTRY com.ibm.mq.runtime 1 0 2019-08-21 17:40:05.549
+!MESSAGE C:\Program Files\IBM\IIB\10.0.0.16\tools>mqsifindmqpath
+
+!ENTRY com.ibm.mq.runtime 1 0 2019-08-21 17:40:05.928
+!MESSAGE BIP8071I: Successful command completion. C:\Program Files\IBM\WebSphere MQ
+
+!ENTRY com.ibm.mq.runtime 1 0 2019-08-21 17:40:05.928
+!MESSAGE MQ Install location found:C:/Program Files/IBM/WebSphere MQ
+
+!ENTRY com.ibm.mq.runtime 1 0 2019-08-21 17:40:05.928
+!MESSAGE 
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-08-21 17:40:06.244
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-08-21 17:40:06.244
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\tnarendar'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2019-08-21 17:41:07.670
+!MESSAGE 
